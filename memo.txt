@@ -1,5 +1,0 @@
-create a message class 
-message 
-text
-datetime
-sent-by
