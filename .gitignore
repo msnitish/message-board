@@ -3,6 +3,7 @@
 venv/
 ENV/
 venv
+.env
 
 
 ### Django ###
